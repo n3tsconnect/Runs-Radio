@@ -62,6 +62,15 @@ a:hover, a:visited, a:link, a:active
   justify-content: space-between;
 }
 
+@media only screen and (max-width: 627px) {
+    body {
+    background:#fff;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    }
+}
+
 /* Buat music playernya */
 #audioplayer{
 	width: 60px;
