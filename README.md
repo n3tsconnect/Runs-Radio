@@ -1,6 +1,6 @@
 # Runs Radio Website
 A simple HTML page for Radio Streaming.
-Demo : https://rafi-priatna.github.io/Runs-Radio
+Demo : https://rafipriatna.github.io/Runs-Radio/
 
 ## Feature :
 1. Responsive design.
