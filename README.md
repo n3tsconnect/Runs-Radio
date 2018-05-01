@@ -1,6 +1,6 @@
 # Runs Radio Website
 A simple HTML page for Radio Streaming.<br/>
-<img src="perlu/RunsRadio.jpg"/>
+<img src="perlu/RunsRadio.png"/>
 
 ## Feature :
 1. Responsive design.
